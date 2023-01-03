@@ -9,12 +9,13 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
+    /* overflow: hidden; */
   }
   
   .product {
     border-radius: 15px;
-    width: 300px;
-    height: 350px;
+    width: 200px;
+    height: 250px;
     margin: 100px;
     display: flex;
     flex-direction: column;
@@ -23,7 +24,7 @@
   }
   
   .product img {
-    width: 400px;
+    width: 300px;
   }
   
   .product .description {
@@ -51,4 +52,15 @@
     color: white;
     cursor: pointer;
   }
+
   
+
+
+
+
+
+
+
+
+
+

@@ -1,24 +1,28 @@
 import product1 from "./assets/img/img1 (1).png";
 import product2 from "./assets/img/img1 (2).png";
 import product3 from "./assets/img/img1 (3).png";
-import product4 from "./assets/img/img1 (4).png";
-import product5 from "./assets/img/img1 (5).png";
-import product6 from "./assets/img/img1 (6).png";
-import product7 from "./assets/img/img1 (7).png";
-import product8 from "./assets/img/img1 (8).png";
-import product9 from "./assets/img/img1 (9).png";
-import product10 from "./assets/img/img1 (10).png";
-import product11 from "./assets/img/img1 (11).png";
-import product12 from "./assets/img/img1 (12).png";
-import product13 from "./assets/img/img1 (13).png";
-import product14 from "./assets/img/img1 (14).png";
-import product15 from "./assets/img/img1 (15).png";
-import product16 from "./assets/img/img1 (16).png";
-import product17 from "./assets/img/img1 (17).png";
-import product18 from "./assets/img/img1 (18).png";
-import product19 from "./assets/img/img1 (19).png";
-import product20 from "./assets/img/img1 (20).png";
-import product21 from "./assets/img/img1 (21).png";
+import product4 from "./assets/img/h1 (1).png";
+import product5 from "./assets/img/h1 (2).png";
+import product6 from "./assets/img/h1 (3).jpeg";
+import product7 from "./assets/img/iphone1 (1).png";
+import product8 from "./assets/img/iphone1 (2).png";
+import product9 from "./assets/img/iphone1 (3).png";
+import product10 from "./assets/img/watch (1).png";
+import product11 from "./assets/img/watch (2).png";
+import product12 from "./assets/img/watch (3).png";
+import product13 from "./assets/img/laptop (1).png";
+import product14 from "./assets/img/laptop (2).png";
+import product15 from "./assets/img/laptop (3).png";
+import product16 from "./assets/img/bag (1).png";
+import product17 from "./assets/img/bag (2).png";
+import product18 from "./assets/img/bag (3).png";
+import product19 from "./assets/img/shoe (1).jpg";
+import product20 from "./assets/img/shoe (2).jpg";
+import product21 from "./assets/img/shoe (3).jpg";
+
+
+
+
 
 export const PRODUCTS = [
   {
