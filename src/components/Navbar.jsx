@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 import {ShoppingCart} from 'phosphor-react'
-
+import navbars from "../../src/components/navbars.css"
 const navbar = () => {
   return (
     <div className='navbar'>
