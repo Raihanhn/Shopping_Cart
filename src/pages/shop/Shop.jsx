@@ -9,7 +9,7 @@ const Shop = () => {
   return (
     <div className='shop'>
         <div className="shopTitle">
-          <h1>The way you feel it</h1>
+          <h1>Online TechTreasure Shop</h1>
         </div>
         <div className="products">
            {PRODUCTS.map((product) => (
